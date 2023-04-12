@@ -2,7 +2,7 @@ package questions
 
 import "github.com/AlecAivazis/survey/v2"
 
-type Botanist struct {
+type BotanistAnswer struct {
 	Passion         bool
 	LabExercise     bool
 	LocalFlora      bool
